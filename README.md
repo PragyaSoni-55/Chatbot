@@ -30,3 +30,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 Run the chatbot
 python app.py
+
+Output:
+![image](https://github.com/user-attachments/assets/896983f1-95d3-4a52-90f0-1912005d1472)
+
